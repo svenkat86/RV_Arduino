@@ -5,7 +5,7 @@
 @RvSystemz  -  This file will be uploaded on the reciever end of Arduino UNO.
 Module to be made available in the recieving end to start and stop pump
 VirtualWire to be used to send & receive 433mhz radio waves
-HC-SR04 Ping distance sensor.
+HC-SR04 Ping distance sensor...
 
 VCC to arduino 5v GND to arduino GND
 Echo to Arduino pin xx Trig to Arduino pin yy
