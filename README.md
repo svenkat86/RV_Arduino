@@ -1,4 +1,5 @@
 # RV_Arduino
-Arduino Library For Irrigation Project
+Arduino Code For Irrigation Project
 
 Download as a repository inside the documents\arduino folder.
+libraries has the reusable components
